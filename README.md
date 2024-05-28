@@ -1,2 +1,2 @@
-Reac-Native App
+React-Native App
 Busca de postos de saúde no Recife
